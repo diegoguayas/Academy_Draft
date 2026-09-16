@@ -1,59 +1,21 @@
-<nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
-    <div class="container-fluid">
-
-        <div class="navbar-header">
-            <button type="button"
-                    class="navbar-toggle collapsed"
-                    data-toggle="collapse"
-                    data-target="#bs-example-navbar-collapse-1">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-
-            <a class="navbar-brand page-scroll" href="#page-top">
-                Future Engineer
-            </a>
+<nav id="mainNav" class="navbar navbar-default navbar-fixed-top" aria-label="Navegación principal">
+    <div class="container">
+        <div class="navbar-header"><button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+                data-target="#site-navigation" aria-expanded="false"><span class="sr-only">Abrir navegación</span><span
+                    class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button><a
+                class="navbar-brand page-scroll" href="#page-top"><span class="brand-mark">F/</span> Future Engineer</a>
         </div>
-
-        <div class="collapse navbar-collapse"
-             id="bs-example-navbar-collapse-1">
-
+        <div class="collapse navbar-collapse" id="site-navigation">
             <ul class="nav navbar-nav navbar-right">
-
-                <li>
-                    <a class="page-scroll" href="#about">
-                        Program
-                    </a>
-                </li>
-
-                <li>
-                    <a class="page-scroll" href="#journey">
-                        Journey
-                    </a>
-                </li>
-
-                <li>
-                    <a class="page-scroll" href="#project">
-                        Smart Room
-                    </a>
-                </li>
-
-                <li>
-                    <a class="page-scroll" href="#mentors">
-                        Mentors
-                    </a>
-                </li>
-
-                <li>
-                    <a class="page-scroll" href="#contact">
-                        Apply
-                    </a>
-                </li>
-
+                <li><a class="page-scroll" href="#about">Programa</a></li>
+                <li><a class="page-scroll" href="#journey">Recorrido</a></li>
+                <li><a class="page-scroll" href="#project">Smart Room</a></li>
+                <li><a class="page-scroll" href="#mentors">Mentores</a></li>
+                <li><a class="page-scroll" href="#faq">Preguntas</a></li>
+                <li class="nav-apply"><a href="{{ site.application_url }}">Postular</a></li>
+                <li class="nav-language"><span class="language-toggle language-pending"
+                        title="La versión en inglés estará disponible próximamente">EN</span></li>
             </ul>
-
         </div>
     </div>
 </nav>

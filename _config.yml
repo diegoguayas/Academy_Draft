@@ -1,12 +1,8 @@
-# Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Future Engineer
+email: hello@example.com # TODO: replace with program email
+description: Un programa de fundamentos de ingeniería de 8 semanas para estudiantes de 15 a 18 años.
+baseurl: ""
+url: ""
+application_url: "https://www.diego.com" # TODO: replace with the live application URL
 
-twitter_username:
-github_username:
-
-# Build settings
 markdown: kramdown
