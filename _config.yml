@@ -1,8 +1,8 @@
 title: Manchester TechLab
-email: hello@example.com # TODO: replace with program email
+email: manchestertechlab@outlook.com
 description: Un programa de fundamentos de ingeniería de 8 semanas para estudiantes de 15 a 18 años.
 baseurl: ""
 url: ""
-application_url: "https://www.diego.com" # TODO: replace with the live application URL
+whatsapp_number: "12025550147" # TODO: replace with the program's WhatsApp number, digits only, including country code
 
 markdown: kramdown
