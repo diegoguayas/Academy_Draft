@@ -1,14 +1,13 @@
-# Creative Theme for Jekyll
+# Manchester TechLab
 
-A Jekyll implementation of the [Creative Theme](http://startbootstrap.com/template-overviews/creative/) template by [Start Bootstrap](http://startbootstrap.com).
+Spanish-language website for Manchester TechLab, an fundamentals program for students. The program introduces programming and engineering through practical projects, with mentors trained at the University of Manchester.
 
-Creative is a one page Bootstrap theme for creatives, small businesses, and other multipurpose uses.
-The theme includes a number of rich features and plugins that you can use as a great boilerplate for your next Jekyll project! 
+## Current page
 
-See it live in action at <https://volny.github.io/creative-theme-jekyll/>
+The visible one-page site contains:
 
-## To use the Creative Theme template in your project
-
-- Start by adding your info in `_config.yml`
-- In `_layouts/front.html` reorder or remove section as you prefer.
-
+- A Manchester TechLab introduction and program call to action
+- The program mission
+- Four mentor profiles with education, teaching, and professional experience
+- Contact options by WhatsApp and email
+- A footer with navigation and contact links
